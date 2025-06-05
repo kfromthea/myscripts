@@ -1,5 +1,5 @@
-###this script converts excel files to pipe delimited files. just insert the path for the report_export_Table_1
-    # saved to your computer and the script will save a copy of the pipe delimited version in your downloads folder.
+###this script converts excel files to pipe delimited files. just insert the path for your file
+    # and the script will save a copy of the pipe delimited version in your downloads folder.
     #libraries to download: openpyxl, pandas
 
 import os
